@@ -1,0 +1,2 @@
+# set_name
+item_modifierのset_nameに関するデータパックサンプルになります。
